@@ -22,11 +22,11 @@ esac
 
 2. Enhanced the previous script, by checking the type of string entered by a user:
 
-1. Upper Cases.
-2. Lower Cases.
-3. Numbers.
-4. Mix.
-5. Nothing.
+	1. Upper Cases.
+	2. Lower Cases.
+	3. Numbers.
+	4. Mix.
+	5. Nothing.
 
 ```bash
 #!/bin/bash
